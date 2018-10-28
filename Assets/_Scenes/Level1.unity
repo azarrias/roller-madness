@@ -138,8 +138,8 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 633699176}
   - {fileID: 1886303197}
+  - {fileID: 633699176}
   - {fileID: 1598744449}
   - {fileID: 1792237741}
   - {fileID: 104495244}
@@ -331,7 +331,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4917311237113970, guid: df3d955d579ca384495ec55d31969f06, type: 2}
       propertyPath: m_RootOrder
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: df3d955d579ca384495ec55d31969f06, type: 2}
@@ -373,7 +373,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4239278788228010, guid: 9ce4c95f26df6e24ebcf4c973d073a68, type: 2}
       propertyPath: m_RootOrder
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9ce4c95f26df6e24ebcf4c973d073a68, type: 2}
